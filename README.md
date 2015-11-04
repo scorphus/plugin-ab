@@ -9,7 +9,10 @@
 
 ## ab
 
-Collection of Fish functions to aid benchmarking with ApacheBench.
+Collection of Fish functions to aid benchmarking with ApacheBench. The following
+function is included:
+
+- `ab-bench`: Benchmarch an application with AB
 
 
 ### Install
