@@ -10,9 +10,10 @@
 ## ab
 
 Collection of Fish functions to aid benchmarking with ApacheBench. The following
-function is included:
+function are included:
 
 - `ab-bench`: Benchmarch an application with AB
+- `ab-plot`: Draw a plot from an AB gnuplot file
 
 
 ### Install
