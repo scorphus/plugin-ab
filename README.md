@@ -14,6 +14,7 @@ function are included:
 
 - `ab-bench`: Benchmarch an application with AB
 - `ab-plot`: Draw a plot from an AB gnuplot file
+- `ab-scatterplot`: Draw a scatterplot from an AB gnuplot file
 
 
 ### Install
